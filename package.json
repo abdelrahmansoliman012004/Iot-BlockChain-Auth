@@ -1,0 +1,28 @@
+{
+  "name": "iot-blockchain-auth",
+  "version": "1.0.0",
+  "description": "Blockchain-based authentication and data logging system for IoT networks using Solidity and Hardhat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile",
+    "deploy": "npx hardhat run scripts/deploy.js --network localhost"
+  },
+  "keywords": [
+    "Solidity",
+    "Hardhat",
+    "Ethereum",
+    "IoT",
+    "Blockchain",
+    "SmartContract"
+  ],
+  "author": "Abdelrahman Mohamed & Karim Osama",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^6.9.0",
+    "hardhat": "^2.18.0"
+  }
+}
