@@ -3,6 +3,7 @@
 A secure, decentralized authentication and data integrity solution for IoT networks.
 
 <p align="center"> <img src="https://dummyimage.com/800x250/1a1a1a/ffffff&text=Blockchain+IoT+Authentication" alt="banner"> </p> <p align="center"> <strong>Solidity • Hardhat • Ethereum • IoT Security • Event Logging</strong> </p> <p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Solidity-0.8.x-363636?logo=solidity" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Ethereum-Smart%20Contract-3C3C3D?logo=ethereum" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Hardhat-Framework-yellow" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Status-Active-brightgreen" /> </a> </p>
+
 📌 Overview
 
 This project implements a blockchain-based authentication and data logging framework tailored for IoT networks.
@@ -93,16 +94,6 @@ Timestamp validation
 
 Event-based logging
 
-📸 Demo (Optional)
-
-You can add:
-
-✔ Screenshots from Remix
-✔ Transaction logs
-✔ Event outputs
-✔ MetaMask deployment proof
-
-If you want, I can generate visuals for the repo.
 
 🔮 Future Enhancements
 
@@ -121,7 +112,6 @@ Zero-knowledge authentication for privacy
 Developed by:
 
 Abdelrahman Mohamed
-
 Karim Osama
 
 🔥 Proudly built for the Blockchain Applications course (AAST)
