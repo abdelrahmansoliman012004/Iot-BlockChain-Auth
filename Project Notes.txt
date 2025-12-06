@@ -1,0 +1,13 @@
+Registered device-> 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2
+
+For registered device
+transaction cost	27973 gas 
+execution cost	11341 gas 
+
+For Authenticate 
+transaction cost	47743 gas 
+execution cost	26539 gas
+
+For recorded data
+transaction cost	26692 gas 
+execution cost	4976 gas
